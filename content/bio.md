@@ -1,5 +1,19 @@
-I am a PhD student at the School of Science, University of Example, advised by [Prof. Advisor One](https://example.com) and [Dr. Advisor Two](https://example.com).
+# Sowon Wei
 
-Prior to this, I obtained a BSc degree with First Class Honours in Natural Science from the University of Example.
+Welcome to my personal homepage.
 
-My current research focuses on investigating the mathematical principles of natural philosophy.
+I am a researcher focusing on:
+
+- Urban green space  
+- Spatial cognition  
+- Computer vision  
+
+---
+
+## About Me
+
+My research explores park environments using 360° imagery and deep learning, including semantic segmentation and spatial perception analysis.
+
+---
+
+TEST_HOME_PAGE_SUCCESS
