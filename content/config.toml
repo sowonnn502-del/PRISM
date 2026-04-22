@@ -2,7 +2,7 @@
 title = "sowon"
 description = "Urban Planning & HCI Portfolio"
 favicon = "/favicon.svg"
-last_updated = "April 22, 2026"
+last_updated = "2026-04-22"
 
 [author]
 name = "sowon"
@@ -11,33 +11,29 @@ institution = "Harbin Institute of Technology, Shenzhen"
 avatar = "/bio.jpg"
 
 [social]
-email = "sowon@example.com"
+email = "Sowon502@163.com"
 location = "Shenzhen, China"
-location_url = "https://maps.google.com"
-location_details = [
-  "School of Architecture and Urban Planning",
-  "Harbin Institute of Technology, Shenzhen"
-]
+location_url = ""
+location_details = []
 google_scholar = ""
 orcid = ""
 github = "https://github.com/sowonnn502-del"
 linkedin = ""
 
 [features]
-enable_likes = true
+enable_likes = false
 enable_one_page_mode = true
 
 [i18n]
 enabled = true
-locales = ["zh", "en"]
+locales = ["en"]
 default_locale = "en"
-mode = "auto"
+mode = "fixed"
 fixed_locale = "en"
 persist = true
-switcher = true
+switcher = false
 
 [i18n.labels]
-zh = "中文"
 en = "English"
 
 [[navigation]]
@@ -45,18 +41,6 @@ title = "About"
 type = "page"
 target = "about"
 href = "/"
-
-[[navigation]]
-title = "Publications"
-type = "page"
-target = "publications"
-href = "/publications"
-
-[[navigation]]
-title = "CV"
-type = "page"
-target = "cv"
-href = "/cv"
 
 [[navigation]]
 title = "Experience"
