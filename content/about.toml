@@ -1,18 +1,12 @@
-[about]
-name = "sowon"
-title = "Master's Student | Urban Planning & HCI"
-institution = "Harbin Institute of Technology, Shenzhen"
-avatar = "/bio.jpg"
+# Sowon Wei
 
-bio = """
-I am a master's student in Urban Planning at HIT Shenzhen, focusing on the intersection of urban design, human-computer interaction, and data-driven experience optimization.
+Welcome to my homepage.
 
-My research interests include multimodal perception, music-landscape matching, emotional demand modeling, and smart city design. I combine urban planning, psychology, and AI product thinking to build human-centered urban systems.
-"""
+My research focuses on:
 
-interests = [
-  "Urban Soundscape & Perception",
-  "EEG & Psychophysiological Experiments",
-  "Smart City & AI Product Design",
-  "Participatory Urban Design"
-]
+- Urban green space
+- Spatial cognition
+- Computer vision
+
+---
+TEST_HOME_PAGE_123
