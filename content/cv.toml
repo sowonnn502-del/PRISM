@@ -1,3 +1,82 @@
-type = "text"
-title = "CV"
-source = "cv.md"
+[education]
+[[education]]
+school = "Harbin Institute of Technology, Shenzhen"
+degree = "Master's in Urban Planning"
+period = "2025.09 – 2028.06 (Expected)"
+description = """
+Research Focus: 
+Multimodal perception, music perception & landscape experience, 
+data-driven user experience optimization, emotional demand modeling.
+"""
+
+[[education]]
+school = "Nanjing Forestry University"
+degree = "B.Eng. in Urban Planning"
+period = "2020.09 – 2025.06"
+description = """
+Honors: Outstanding Graduate, Merit Student, Outstanding Student Leader, Excellent League Member;
+Scholarships for 5 consecutive years.
+"""
+
+[experience]
+[[experience]]
+title = "AI Product Operations Intern"
+organization = "Shenzhen Fankewei Tech"
+period = "2025.12 – 2026.01"
+description = """
+- Led 0→1 design of an AI-driven college counseling tool, covering requirement analysis, prototype design, and data validation.
+- Conducted semi-structured interviews with 20+ high-value users; identified 3 core pain points: information overload, missing key nodes, decision anxiety.
+- Designed full-link interactive prototypes with Figma; delivered 3 visualization schemes; adopted "timeline + risk reminder" to improve information efficiency by 40%.
+- Built funnel data dashboard; optimized AI recommendation logic; increased adoption rate from 35% to 52%.
+"""
+
+[[experience]]
+title = "Planning Analysis Assistant"
+organization = "Suyi Design Group, Smart City Research Institute"
+period = "2025.04 – 2025.07"
+description = """
+- Researched BCI (brain-computer interface) industry chain, policy, and enterprise layout; completed 15-page feasibility analysis.
+- Used GIS to process multi-source data; produced 10+ planning drawings (land use, functional layout).
+- Compiled 50-page feasibility report & bidding PPT; project shortlisted by expert panel and entered deep design phase.
+"""
+
+[[experience]]
+title = "Content Operations Intern"
+organization = "MYLAB Woodworking Lab"
+period = "2023.02 – 2023.06"
+description = """
+- Operated official WeChat account; created 8 high-quality tutorials; boosted offline consultation by 20%.
+- Optimized course tools & safety guidelines based on user feedback; improved teaching efficiency.
+"""
+
+[[experience]]
+title = "Minister of Youth Development"
+organization = "HIT Shenzhen Graduate Union"
+period = "2024.09 – Present"
+description = """
+- Led flagship activities: *Future Navigator* (career workshop) & *Future Window* (sharing salon).
+- Analyzed 200+ feedback questionnaires; established standardized SOP; improved event scalability & efficiency.
+- Responsible for program design, execution planning, and brand building.
+"""
+
+[skills]
+technical = [
+  "Python",
+  "R",
+  "SQL",
+  "Figma",
+  "Axure",
+  "GIS Spatial Analysis",
+  "Adobe Suite",
+  "PPT Design"
+]
+language = [
+  "English: IELTS 6.5 (Fluent in academic & working communication)",
+  "Chinese: Native"
+]
+other = [
+  "Academic writing",
+  "Project management",
+  "User research",
+  "Data visualization"
+]
