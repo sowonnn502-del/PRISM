@@ -53,10 +53,10 @@ target = "publications"
 href = "/publications"
 
 [[navigation]]
-title = "Projects"
+title = "CV"
 type = "page"
-target = "projects"
-href = "/projects"
+target = "cv"
+href = "/cv"
 
 [[navigation]]
 title = "Experience"
