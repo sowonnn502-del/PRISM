@@ -1,29 +1,18 @@
-type = "about"
-title = "About"
+[about]
+name = "sowon"
+title = "Master's Student | Urban Planning & HCI"
+institution = "Harbin Institute of Technology, Shenzhen"
+avatar = "/bio.jpg"
 
-[profile]
-research_interests = [
-  "Computational Physics",
-  "Mathematical Principles",
-  "Proof of Theorems"
+bio = """
+I am a master's student in Urban Planning at HIT Shenzhen, focusing on the intersection of urban design, human-computer interaction, and data-driven experience optimization.
+
+My research interests include multimodal perception, music-landscape matching, emotional demand modeling, and smart city design. I combine urban planning, psychology, and AI product thinking to build human-centered urban systems.
+"""
+
+interests = [
+  "Urban Soundscape & Perception",
+  "EEG & Psychophysiological Experiments",
+  "Smart City & AI Product Design",
+  "Participatory Urban Design"
 ]
-
-[[sections]]
-id = "about"
-type = "markdown"
-source = "bio.md"
-title = "About"
-
-[[sections]]
-id = "featured_publications"
-type = "publications"
-title = "Selected Publications"
-filter = "selected"
-limit = 5
-
-[[sections]]
-id = "news"
-type = "list"
-title = "News"
-source = "news.toml"
-
